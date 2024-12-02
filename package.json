@@ -16,5 +16,6 @@
   },
   "dependencies": {
     "locominder": "link:"
-  }
+  },
+  "license": "MIT"
 }
