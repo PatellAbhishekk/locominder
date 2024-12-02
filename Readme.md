@@ -42,4 +42,4 @@ This will create a new project in the current directory.
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://raw.githubusercontent.com/PatellAbhishekk/Portfolio/refs/heads/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://raw.githubusercontent.com/PatellAbhishekk/locominder/refs/heads/main/LICENSE)
